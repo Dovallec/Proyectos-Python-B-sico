@@ -3,6 +3,8 @@
 # Entrada -> As Soon As Possible. Salida -> ASAP.
 # Entrada -> World Health Organization. Salida -> WHO.
 # Entrada -> Absent Without Leave. Salida -> AWOL.
+
+#Utilizamos estas librerías para intentar voltear el output del código
 import pandas as pd
 import numpy as np
 
